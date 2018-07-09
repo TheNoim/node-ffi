@@ -17,7 +17,7 @@
     "binding",
     "c"
   ],
-  "homepage": "http://github.com/node-ffi/node-ffi",
+  "homepage": "http://github.com/TheNoim/node-ffi",
   "engines": {
     "node": ">=0.10.0"
   },
